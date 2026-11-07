@@ -1,0 +1,43 @@
+name: Günlük Resmî Gazete özeti
+
+on:
+  schedule:
+    - cron: "15 4 * * *"   # her gün 07.15 (Türkiye saati)
+  workflow_dispatch:
+    inputs:
+      tarih:
+        description: "Tarih (YYYY-AA-GG). Boş bırakılırsa bugün."
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gazete
+  cancel-in-progress: false
+
+jobs:
+  ozet:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Gerekli paketler
+        run: pip install requests beautifulsoup4 pypdf
+
+      - name: Resmî Gazete'yi indir ve özetle
+        run: python guncelle.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TARIH: ${{ github.event.inputs.tarih }}
+
+      - name: Arşivi kaydet
+        run: |
+          git config user.name "gazete-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --staged --quiet || (git commit -m "Resmî Gazete özeti $(date +%F)" && git pull --rebase && git push)
