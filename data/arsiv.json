@@ -1,0 +1,92 @@
+[
+ {
+  "tarih": "2026-11-07",
+  "sayi": "",
+  "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107.htm",
+  "mukerrer": [],
+  "genel": "07.11.2026 tarihli Resmî Gazete'de Cumhurbaşkanlığı atama kararları, Aile Danışma Merkezleri Yönetmeliği, Çevresel Etki Değerlendirmesi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik, tarım ve meslek odalarına ait yönetmelik değişiklikleri yayımlanmıştır.",
+  "maddeler": [
+   {
+    "bolum": "ATAMA KARARLARI",
+    "baslik": "Cumhurbaşkanlığı Tarafından Yapılan Atamalar Hakkında Kararlar (Karar: 2026/378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388)",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-1.pdf",
+    "ozet": "Cumhurbaşkanlığı tarafından yapılan atama kararlarını kapsamaktadır.",
+    "yururluk": "",
+    "onem": "dusuk",
+    "etiketler": [
+     "İdare"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Aile Danışma Merkezleri Yönetmeliği",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-2.htm",
+    "ozet": "Gerçek kişiler, özel hukuk tüzel kişileri ve kamu kurum ve kuruluşları tarafından açılacak aile danışma merkezlerinin açılış, işleyiş, personel, denetim ve kapatılma usul ve esaslarını düzenler.",
+    "yururluk": "",
+    "onem": "orta",
+    "etiketler": [
+     "İdare",
+     "Sağlık"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Çevresel Etki Değerlendirmesi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-3.htm",
+    "ozet": "Çevresel Etki Değerlendirmesi Yönetmeliği'nin EK-1 ve EK-2 listelerinde değişiklik yapılarak bazı termik/nükleer tesisler ve su aktarma projeleri ÇED kapsamına dahil edilmiştir.",
+    "yururluk": "yayımı tarihinde",
+    "onem": "yuksek",
+    "etiketler": [
+     "İdare"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Sığır Karkasının Sınıflandırılmasına Dair Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-4.htm",
+    "ozet": "Sığır karkasının sınıflandırılmasına dair yönetmelikte bazı unvan değişiklikleri yapılmış olup, pazar fiyatının belirlenmesinde dikkate alınacak ağırlığın sıcak karkas ağırlığı olduğu düzenlenmiştir.",
+    "yururluk": "yayımı tarihinde",
+    "onem": "orta",
+    "etiketler": [
+     "İdare"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Türk Mühendis ve Mimar Odaları Birliği Metalurji ve Malzeme Mühendisleri Odası Ana Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-5.htm",
+    "ozet": "TMMOB Metalurji ve Malzeme Mühendisleri Odası Ana Yönetmeliği'nde oda üyeliğine ilişkin meslek unvanları kapsamı güncellenmiştir.",
+    "yururluk": "yayımı tarihinde",
+    "onem": "dusuk",
+    "etiketler": [
+     "İdare"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Türk Mühendis ve Mimar Odaları Birliği Meteoroloji Mühendisleri Odası Ana Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-6.htm",
+    "ozet": "TMMOB Meteoroloji Mühendisleri Odası Ana Yönetmeliği'nde yönetim kurulu yapısı, seçim sonrası ilk toplantı usulleri ve sekreterliklerin görevleri yeniden düzenlenmiştir.",
+    "yururluk": "yayımı tarihinde",
+    "onem": "dusuk",
+    "etiketler": [
+     "İdare"
+    ]
+   },
+   {
+    "bolum": "KURUL KARARI",
+    "baslik": "Enerji Piyasası Düzenleme Kurulunun 04/11/2026 Tarihli ve 15024 Sayılı Kararı",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107-7.pdf",
+    "ozet": "Enerji Piyasası Düzenleme Kurulu'nun 04/11/2026 tarihli ve 15024 sayılı kararı Resmî Gazete'de yayımlanmıştır.",
+    "yururluk": "",
+    "onem": "orta",
+    "etiketler": [
+     "İdare",
+     "Ekonomi"
+    ]
+   }
+  ],
+  "model": "gemini-flash-lite-latest",
+  "olusturma": "2026-11-07T14:21+03:00"
+ }
+]
