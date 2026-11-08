@@ -1,5 +1,64 @@
 [
  {
+  "tarih": "2026-11-08",
+  "sayi": "",
+  "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108.htm",
+  "mukerrer": [],
+  "genel": "Günün Resmî Gazete bülteninde genel hukuk uygulamasını ve geniş kitleleri doğrudan etkileyen önemli bir yasal düzenleme veya mevzuat değişikliği yer almamaktadır. Yayımda Cumhurbaşkanlığına vekâlet tezkeresi, Bahçeşehir Üniversitesi bünyesinde kurulan araştırma merkezlerine ilişkin iki yönetmelik ve Uyuşmazlık Mahkemesi kararları bulunmaktadır.",
+  "maddeler": [
+   {
+    "bolum": "CUMHURBAŞKANLIĞINA VEKÂLET ETME İŞLEMİ",
+    "baslik": "Cumhurbaşkanlığına, Cumhurbaşkanı Yardımcısı Cevdet YILMAZ’ın Vekâlet Etmesine Dair Tezkere",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-1.pdf",
+    "ozet": "Cumhurbaşkanlığına, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'ın vekâlet etmesine ilişkin tezkere yayımlanmıştır.",
+    "yururluk": "",
+    "onem": "dusuk",
+    "etiketler": [
+     "Anayasa",
+     "İdare"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Bahçeşehir Üniversitesi Sporda Yenilikçilik Uygulama ve Araştırma Merkezi Yönetmeliği",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-2.htm",
+    "ozet": "Bahçeşehir Üniversitesi Sporda Yenilikçilik Uygulama ve Araştırma Merkezinin amaçları, faaliyet alanları ve yönetim organlarının görev ve çalışma usulleri düzenlenmiştir.",
+    "yururluk": "",
+    "onem": "dusuk",
+    "etiketler": [
+     "İdare",
+     "Eğitim"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Bahçeşehir Üniversitesi Türk Müziği Uygulama ve Araştırma Merkezi Yönetmeliği",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-3.htm",
+    "ozet": "Bahçeşehir Üniversitesi Türk Müziği Uygulama ve Araştırma Merkezinin amaçları, faaliyet alanları, yönetim organları ve işleyişine dair usul ve esaslar belirlenmiştir.",
+    "yururluk": "",
+    "onem": "dusuk",
+    "etiketler": [
+     "İdare",
+     "Eğitim"
+    ]
+   },
+   {
+    "bolum": "UYUŞMAZLIK MAHKEMESİ KARARLARI",
+    "baslik": "Uyuşmazlık Mahkemesine Ait Kararlar",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261108-4.pdf",
+    "ozet": "Resmî Gazete'de Uyuşmazlık Mahkemesi kararları yer almış ancak bültende karar metinlerinin ayrıntılarına yer verilmemiştir.",
+    "yururluk": "",
+    "onem": "orta",
+    "etiketler": [
+     "Hukuk Usulü",
+     "İdare"
+    ]
+   }
+  ],
+  "model": "gemini-flash-latest",
+  "olusturma": "2026-11-08T08:00+03:00"
+ },
+ {
   "tarih": "2026-11-07",
   "sayi": "",
   "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261107.htm",
