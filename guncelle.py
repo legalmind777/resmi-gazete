@@ -29,7 +29,7 @@ HEADERS = {
 MODELS = [m for m in [os.getenv("GEMINI_MODEL"), "gemini-flash-latest",
                       "gemini-2.5-flash", "gemini-flash-lite-latest"] if m]
 MADDE_METIN_SINIRI = 7000      # bir maddeden okunacak en fazla karakter
-TOPLAM_METIN_SINIRI = 150000   # Gemini'ye gönderilecek toplam metin
+TOPLAM_METIN_SINIRI = 100000   # Gemini'ye gönderilecek toplam metin
 METNI_OKUNACAK_MADDE = 30      # en fazla bu kadar maddenin metni indirilir
 
 
@@ -137,33 +137,94 @@ Yanıtı yalnızca şu JSON biçiminde ver:
 """
 
 
+API = "https://generativelanguage.googleapis.com/v1beta"
+
+
+def uygun_modeller(anahtar):
+    """Hesabın erişebildiği metin modellerini bulur; en uygun Flash modelleri öne alır."""
+    adaylar = [m for m in MODELS]
+    try:
+        r = requests.get(f"{API}/models", headers={"x-goog-api-key": anahtar},
+                         params={"pageSize": 200}, timeout=30)
+        if r.status_code != 200:
+            log(f"  Model listesi alınamadı: HTTP {r.status_code} {r.text[:300]}")
+            return adaylar
+        isimler = []
+        for m in r.json().get("models", []):
+            ad = m.get("name", "").replace("models/", "")
+            if "generateContent" not in m.get("supportedGenerationMethods", []):
+                continue
+            if "flash" not in ad or any(k in ad for k in ("image", "tts", "audio", "live", "embedding", "thinking", "exp")):
+                continue
+            isimler.append(ad)
+        def puan(ad):
+            surum = re.findall(r"(\d+(?:\.\d+)?)", ad)
+            return (("lite" not in ad), ("preview" not in ad), float(surum[0]) if surum else 0, ad)
+        isimler.sort(key=puan, reverse=True)
+        log("  Erişilebilen Flash modelleri:", ", ".join(isimler[:6]) or "(yok)")
+        tercih = [os.getenv("GEMINI_MODEL")] if os.getenv("GEMINI_MODEL") else []
+        sirali = tercih + [a for a in isimler if "lite" not in a] + MODELS + [a for a in isimler if "lite" in a]
+        adaylar = [a for i, a in enumerate(sirali) if a and a not in sirali[:i]]
+    except requests.RequestException as e:
+        log("  Model listesi alınamadı:", e)
+    return adaylar
+
+
+def json_coz(metin):
+    metin = re.sub(r"^```(?:json)?|```$", "", metin.strip()).strip()
+    try:
+        return json.loads(metin)
+    except json.JSONDecodeError:
+        bas, son = metin.find("{"), metin.rfind("}")
+        if bas != -1 and son > bas:
+            return json.loads(metin[bas:son + 1])
+        raise
+
+
 def gemini(istem):
-    anahtar = os.getenv("GEMINI_API_KEY")
+    anahtar = (os.getenv("GEMINI_API_KEY") or "").strip()
     if not anahtar:
-        raise RuntimeError("GEMINI_API_KEY bulunamadı (GitHub > Settings > Secrets).")
+        raise RuntimeError("GEMINI_API_KEY bulunamadı (GitHub > Settings > Secrets and variables > Actions).")
     govde = {
         "contents": [{"role": "user", "parts": [{"text": istem}]}],
-        "generationConfig": {"responseMimeType": "application/json", "temperature": 0.2},
+        "generationConfig": {"responseMimeType": "application/json", "temperature": 0.2, "maxOutputTokens": 32768},
     }
     son_hata = ""
-    for model in MODELS:
+    for model in uygun_modeller(anahtar):
         for i in range(3):
-            r = requests.post(
-                f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
-                headers={"x-goog-api-key": anahtar, "Content-Type": "application/json"},
-                json=govde, timeout=240)
+            try:
+                r = requests.post(f"{API}/models/{model}:generateContent",
+                                  headers={"x-goog-api-key": anahtar, "Content-Type": "application/json"},
+                                  json=govde, timeout=300)
+            except requests.RequestException as e:
+                son_hata = f"{model}: bağlantı hatası {e}"
+                log("  Gemini hatası:", son_hata)
+                time.sleep(15)
+                continue
             if r.status_code == 200:
-                parcalar = r.json()["candidates"][0]["content"]["parts"]
+                veri = r.json()
+                aday = (veri.get("candidates") or [{}])[0]
+                parcalar = (aday.get("content") or {}).get("parts") or []
                 metin = "".join(p.get("text", "") for p in parcalar if not p.get("thought"))
-                metin = re.sub(r"^```(?:json)?|```$", "", metin.strip()).strip()
-                return json.loads(metin), model
-            son_hata = f"{model}: HTTP {r.status_code} {r.text[:300]}"
+                if not metin:
+                    son_hata = f"{model}: boş yanıt (bitiş nedeni: {aday.get('finishReason')}, {str(veri.get('promptFeedback', ''))[:200]})"
+                    log("  Gemini hatası:", son_hata)
+                    break
+                try:
+                    return json_coz(metin), model
+                except json.JSONDecodeError as e:
+                    son_hata = f"{model}: yanıt JSON olarak okunamadı ({e}; bitiş nedeni: {aday.get('finishReason')})"
+                    log("  Gemini hatası:", son_hata)
+                    break
+            son_hata = f"{model}: HTTP {r.status_code} {r.text[:400]}"
             log("  Gemini hatası:", son_hata)
+            if r.status_code in (400, 401, 403) and ("API_KEY" in r.text or "PERMISSION" in r.text):
+                raise RuntimeError("Gemini anahtarı geçersiz veya yetkisiz: " + r.text[:300])
             if r.status_code in (429, 500, 503):
                 time.sleep(30 * (i + 1))
                 continue
             break  # model yok ya da istek reddedildi: sıradaki modeli dene
-    raise RuntimeError(son_hata)
+    raise RuntimeError(son_hata or "Hiçbir modele ulaşılamadı")
 
 
 # ---------------------------------------------------------------- ana akış
@@ -202,12 +263,20 @@ def main():
             parcalar.append(f"### {i}. [{x['bolum']}] {x['baslik']}\n{metin or '(metin alınmadı)'}")
             time.sleep(0.5)
         try:
-            sonuc, model = gemini(TALIMAT.format(tarih=gun.strftime("%d.%m.%Y"), icerik="\n\n".join(parcalar)))
+            try:
+                sonuc, model = gemini(TALIMAT.format(tarih=gun.strftime("%d.%m.%Y"), icerik="\n\n".join(parcalar)))
+            except RuntimeError as e:
+                if "anahtar" in str(e):
+                    raise
+                log("Tam metinle özet alınamadı; yalnızca başlıklarla yeniden deneniyor.")
+                basliklar = "\n".join(f"### {i}. [{x['bolum']}] {x['baslik']}\n(metin alınmadı)" for i, x in enumerate(maddeler, 1))
+                sonuc, model = gemini(TALIMAT.format(tarih=gun.strftime("%d.%m.%Y"), icerik=basliklar))
             ozetler = {int(o.get("no", 0)): o for o in sonuc.get("maddeler", []) if str(o.get("no", "")).isdigit()}
             giris["genel"] = temiz(sonuc.get("genel", ""))
             giris["model"] = model
         except Exception as e:
             log("Özet oluşturulamadı:", e)
+            giris["hata"] = str(e)[:500]
             ozetler = {}
             giris["genel"] = "Bugün yapay zekâ özeti oluşturulamadı; başlıklar aşağıda."
         for i, x in enumerate(maddeler, 1):
