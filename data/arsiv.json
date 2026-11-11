@@ -1,5 +1,79 @@
 [
  {
+  "tarih": "2026-11-11",
+  "sayi": "",
+  "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261111.htm",
+  "mukerrer": [],
+  "genel": "11 Kasım 2026 tarihli Resmî Gazete'de, terörle mücadele ve yaptırımlar kapsamında BMGK kararları uyarınca malvarlığı dondurulanlar listesinde değişiklik yapılmış, iki elektronik para kuruluşunun faaliyet izinleri iptal edilmiştir. Ayrıca Güney Kore menşeli protez diş bağlantı parçaları ithalatına uygulanan dampinge karşı önlemler güncellenmiş ve üniversite mevzuatında düzenlemeye gidilmiştir.",
+  "maddeler": [
+   {
+    "bolum": "CUMHURBAŞKANI KARARI",
+    "baslik": "Birleşmiş Milletler Güvenlik Konseyinin 1267 (1999), 1988 (2011), 1989 (2011) ve 2253 (2015) Sayılı Kararlarıyla Listelenen Kişi, Kuruluş veya Organizasyonların Tasarrufunda Bulunan Malvarlığının Dondurulması Hakkındaki 30/9/2013 Tarihli ve 2013/5428 Sayılı Bakanlar Kurulu Kararının Eki (1) Sayılı Listede Değişiklik Yapılmasına İlişkin Karar (Karar Sayısı: 11959)",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261111-1.pdf",
+    "ozet": "Birleşmiş Milletler Güvenlik Konseyi kararları uyarınca terör örgütleriyle ilintili kişi, kuruluş veya organizasyonların malvarlığının dondurulmasına ilişkin 2013/5428 sayılı Karar eki listede değişiklik yapılmıştır.",
+    "yururluk": "",
+    "onem": "yuksek",
+    "etiketler": [
+     "İdare",
+     "Ceza"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİK",
+    "baslik": "Piri Reis Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261111-2.htm",
+    "ozet": "Piri Reis Üniversitesi'nde öğrencilerin ders başarı notlarının harf katsayıları ve puan aralıkları yeniden belirlenmiş, ek sınavların mutlak başarı puanına göre değerlendirileceği hüküm altına alınmıştır.",
+    "yururluk": "yayımı tarihinde",
+    "onem": "dusuk",
+    "etiketler": [
+     "Eğitim",
+     "İdare"
+    ]
+   },
+   {
+    "bolum": "TEBLİĞLER",
+    "baslik": "İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2025/4)’de Değişiklik Yapılmasına Dair Tebliğ",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261111-3.htm",
+    "ozet": "Kore Cumhuriyeti menşeli protez diş bağlantı parçaları ithalatında bazı firmalara uygulanan dampinge karşı önlem oran ve tutarları değiştirilmiştir.",
+    "yururluk": "yayımı tarihinde",
+    "onem": "orta",
+    "etiketler": [
+     "Ticaret",
+     "İdare",
+     "Ekonomi"
+    ]
+   },
+   {
+    "bolum": "TEBLİĞLER",
+    "baslik": "A Ödeme ve Elektronik Para Hizmetleri A.Ş.’nin Faaliyet İzninin İptal Edilmesine İlişkin Karar",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261111-4.pdf",
+    "ozet": "A Ödeme ve Elektronik Para Hizmetleri A.Ş.'nin faaliyet izninin iptal edilmesine karar verilmiştir.",
+    "yururluk": "",
+    "onem": "orta",
+    "etiketler": [
+     "Ticaret",
+     "İdare",
+     "Ekonomi"
+    ]
+   },
+   {
+    "bolum": "TEBLİĞLER",
+    "baslik": "Ozan Elektronik Para A.Ş.’nin Faaliyet İzninin İptal Edilmesine İlişkin Karar",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261111-5.pdf",
+    "ozet": "Ozan Elektronik Para A.Ş.'nin faaliyet izninin iptal edilmesine karar verilmiştir.",
+    "yururluk": "",
+    "onem": "orta",
+    "etiketler": [
+     "Ticaret",
+     "İdare",
+     "Ekonomi"
+    ]
+   }
+  ],
+  "model": "gemini-3.8-flash",
+  "olusturma": "2026-11-11T08:10+03:00"
+ },
+ {
   "tarih": "2026-11-10",
   "sayi": "",
   "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261110.htm",
