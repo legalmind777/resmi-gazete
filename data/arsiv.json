@@ -1,5 +1,62 @@
 [
  {
+  "tarih": "2026-11-12",
+  "sayi": "",
+  "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261112.htm",
+  "mukerrer": [],
+  "genel": "Bugünkü Resmî Gazete'de sigortacılık mevzuatında bütünleşik sigortalar ile mesafeli akdedilen sözleşmelere ilişkin önemli düzenlemeler ve afet sonrası bina hasar tespit kurallarında değişiklikler yayımlanmıştır. Ayrıca Devlet Su İşleri Genel Müdürlüğü personeline yönelik görevde yükselme ve unvan değişikliği yönetmeliği yayımlanmıştır.",
+  "maddeler": [
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Afetler Sonrası Bina Hasar Tespiti Yapılmasına İlişkin Genel Kurallar Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261112-1.htm",
+    "ozet": "Afetler sonrası bina hasar tespiti ve tahliye süreçlerindeki bazı gözetim ve uygulama yetkileri güvenlik ve trafik grubu gözetiminde eşya sahiplerine verilmiş, ilgili ek formlar değiştirilmiştir. Düzenleme, afet sonrasında bina hasar tespiti yürütücülerini ve mülk/eşya sahiplerini etkilemektedir.",
+    "yururluk": "22/12/2026",
+    "onem": "orta",
+    "etiketler": [
+     "İdare"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Bütünleşik Sigortalar Hakkında Yönetmelik",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261112-2.htm",
+    "ozet": "Bütünleşik sigortacılık faaliyetlerinin şeffaf ve etkin yürütülmesine ilişkin sunulabilecek teminatlar, kapsama girmeyen sigortalar, azami prim tutarları ve teminat süreleri düzenlenmiştir. Yönetmelik; sigorta ve reasürans şirketlerini, bankaları, sigorta aracılarını ve mal/hizmet alımı sırasında sigorta teminatı alan tüketicileri kapsamaktadır.",
+    "yururluk": "",
+    "onem": "orta",
+    "etiketler": [
+     "Ticaret",
+     "İdare"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Sigortacılık Kapsamında Değerlendirilecek Faaliyetler ve Mesafeli Akdedilen Sigorta Sözleşmeleri Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261112-3.htm",
+    "ozet": "Sigortacılık kapsamında değerlendirilecek faaliyetler ve mesafeli sigorta sözleşmelerine ilişkin yönetmeliğin amaç, kapsam ve başlık hükümleri güncellenmiş, 10 uncu maddesi yürürlükten kaldırılmıştır. Değişiklik sigorta şirketlerini, emeklilik şirketlerini, sigorta aracılarını ve mesafeli sigorta yaptıran tarafları etkilemektedir.",
+    "yururluk": "yayımı tarihinde",
+    "onem": "orta",
+    "etiketler": [
+     "Ticaret",
+     "İdare"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Devlet Su İşleri Genel Müdürlüğü Personeli Görevde Yükselme ve Ünvan Değişikliği Yönetmeliği",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261112-4.htm",
+    "ozet": "Devlet Su İşleri Genel Müdürlüğü merkez ve taşra teşkilatında 657 sayılı Kanuna tabi personelin görevde yükselme ve unvan değişikliği sınavları ile atanma usul ve özel şartları belirlenmiştir. Düzenleme DSİ bünyesinde görev yapan memur ve teknik personeli etkilemektedir.",
+    "yururluk": "",
+    "onem": "dusuk",
+    "etiketler": [
+     "İdare"
+    ]
+   }
+  ],
+  "model": "gemini-3.6-flash",
+  "olusturma": "2026-11-12T08:10+03:00"
+ },
+ {
   "tarih": "2026-11-11",
   "sayi": "",
   "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261111.htm",
