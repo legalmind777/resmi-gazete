@@ -1,5 +1,64 @@
 [
  {
+  "tarih": "2026-11-13",
+  "sayi": "",
+  "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261113.htm",
+  "mukerrer": [],
+  "genel": "13 Kasım 2026 tarihli Resmî Gazete'de Sağlık Bakanlığı tarafından diyaliz merkezleri ve ünitelerinin planlaması, açılması, fiziki şartları ve çalışma usullerini düzenleyen kapsamlı bir yönetmelik yayımlanmıştır. Bunun yanı sıra Gaziantep Üniversitesi bünyesindeki bazı uygulama ve araştırma merkezlerinin yönetmelikleri yürürlükten kaldırılmıştır. Güncel sayıda doğrudan yargı uygulamasını veya geniş halk kitlelerini ilgilendiren yüksek önem derecesine sahip bir düzenleme yer almamaktadır.",
+  "maddeler": [
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Diyaliz Merkezleri Hakkında Yönetmelik",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261113-1.htm",
+    "ozet": "Diyaliz tedavi yöntemlerini uygulayan kamu, üniversite ve özel diyaliz merkezleri ile ünitelerinin planlanması, açılması, fiziki koşulları, cihaz temini ve denetimlerine ilişkin usul ve esaslar düzenlenmiştir. Düzenleme, diyaliz hizmeti sunan tüm sağlık kuruluşlarını, buralarda görev yapan personeli ve hastaları etkilemektedir.",
+    "yururluk": "",
+    "onem": "orta",
+    "etiketler": [
+     "Sağlık",
+     "İdare"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Gaziantep Üniversitesi Bilgisayar Araştırma ve Uygulama Merkezi (BİLAMER) Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261113-2.htm",
+    "ozet": "Gaziantep Üniversitesi Bilgisayar Araştırma ve Uygulama Merkezi (BİLAMER) Yönetmeliği yürürlükten kaldırılmıştır.",
+    "yururluk": "yayımı tarihinde",
+    "onem": "dusuk",
+    "etiketler": [
+     "Eğitim",
+     "İdare"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Gaziantep Üniversitesi Din, Tarih ve Medeniyetler Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261113-3.htm",
+    "ozet": "Gaziantep Üniversitesi Din, Tarih ve Medeniyetler Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırılmıştır.",
+    "yururluk": "yayımı tarihinde",
+    "onem": "dusuk",
+    "etiketler": [
+     "Eğitim",
+     "İdare"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Gaziantep Üniversitesi Strateji Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261113-4.htm",
+    "ozet": "Gaziantep Üniversitesi Strateji Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırılmıştır.",
+    "yururluk": "yayımı tarihinde",
+    "onem": "dusuk",
+    "etiketler": [
+     "Eğitim",
+     "İdare"
+    ]
+   }
+  ],
+  "model": "gemini-3.8-flash",
+  "olusturma": "2026-11-13T08:09+03:00"
+ },
+ {
   "tarih": "2026-11-12",
   "sayi": "",
   "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261112.htm",
