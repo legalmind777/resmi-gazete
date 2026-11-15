@@ -1,5 +1,88 @@
 [
  {
+  "tarih": "2026-11-15",
+  "sayi": "",
+  "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261115.htm",
+  "mukerrer": [],
+  "genel": "15 Kasım 2026 tarihli Resmî Gazete'de genel olarak çeşitli üniversitelere ait uygulama ve araştırma merkezlerinin yönetmeliklerinin yürürlükten kaldırılmasına ilişkin düzenlemeler ile antrenörlük meslek standartlarını belirleyen bir Tebliğ yayımlanmıştır. Günün yayınında avukatlar açısından doğrudan yüksek önem taşıyan geniş kapsamlı bir hukuki gelişme yer almamaktadır.",
+  "maddeler": [
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Dokuz Eylül Üniversitesi Akademik Acil Tıp ve Afet Eğitim Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261115-1.htm",
+    "ozet": "Dokuz Eylül Üniversitesi Akademik Acil Tıp ve Afet Eğitim Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırılmıştır.",
+    "yururluk": "yayımı tarihinde",
+    "onem": "dusuk",
+    "etiketler": [
+     "Eğitim",
+     "İdare"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Dokuz Eylül Üniversitesi Kozmetoloji Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261115-2.htm",
+    "ozet": "Dokuz Eylül Üniversitesi Kozmetoloji Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırılmıştır.",
+    "yururluk": "yayımı tarihinde",
+    "onem": "dusuk",
+    "etiketler": [
+     "Eğitim",
+     "İdare"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Dokuz Eylül Üniversitesi Üniversite-Sanayi Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261115-3.htm",
+    "ozet": "Dokuz Eylül Üniversitesi Üniversite-Sanayi Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırılmıştır.",
+    "yururluk": "yayımı tarihinde",
+    "onem": "dusuk",
+    "etiketler": [
+     "Eğitim",
+     "İdare"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "İstanbul Sabahattin Zaim Üniversitesi Gıda ve Tarım Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261115-4.htm",
+    "ozet": "İstanbul Sabahattin Zaim Üniversitesi Gıda ve Tarım Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırılmıştır.",
+    "yururluk": "yayımı tarihinde",
+    "onem": "dusuk",
+    "etiketler": [
+     "Eğitim",
+     "İdare"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Toros Üniversitesi Alevilik-Bektaşilik Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261115-5.htm",
+    "ozet": "Toros Üniversitesi Alevilik-Bektaşilik Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırılmıştır.",
+    "yururluk": "yayımı tarihinde",
+    "onem": "dusuk",
+    "etiketler": [
+     "Eğitim",
+     "İdare"
+    ]
+   },
+   {
+    "bolum": "TEBLİĞ",
+    "baslik": "Ulusal Meslek Standartlarına Dair Tebliğ (No: 2026/13)",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261115-6.htm",
+    "ozet": "Yardımcı Antrenör, Temel Antrenör, Kıdemli Antrenör, Baş Antrenör ve Teknik Direktör mesleklerine ilişkin ulusal meslek standartları yürürlüğe konulmuştur.",
+    "yururluk": "yayımı tarihinde",
+    "onem": "orta",
+    "etiketler": [
+     "İş",
+     "İdare"
+    ]
+   }
+  ],
+  "model": "gemini-3.6-flash",
+  "olusturma": "2026-11-15T08:03+03:00"
+ },
+ {
   "tarih": "2026-11-14",
   "sayi": "",
   "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261114.htm",
