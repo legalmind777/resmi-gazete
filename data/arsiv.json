@@ -1,5 +1,64 @@
 [
  {
+  "tarih": "2026-11-16",
+  "sayi": "",
+  "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261116.htm",
+  "mukerrer": [],
+  "genel": "Resmî Gazete'nin bu sayısında genel yargı uygulamasını, kanunları veya geniş kitleleri ilgilendiren önemli bir mevzuat değişikliği yer almamaktadır. Yayımlanan düzenlemeler yalnızca Atılım Üniversitesi ile Karadeniz Teknik Üniversitesi'nin iç işleyişine ve eğitim-öğretim esaslarına ilişkindir.",
+  "maddeler": [
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Atılım Üniversitesi Ana Yönetmeliği",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261116-1.htm",
+    "ozet": "Atılım Üniversitesinin akademik ve idari organlarının teşkili, yönetimi, işleyişi, Mütevelli Heyet ve Rektörün görev, yetki ve sorumlulukları ile mali işleyiş kuralları düzenlenmiştir.",
+    "yururluk": "",
+    "onem": "dusuk",
+    "etiketler": [
+     "İdare",
+     "Eğitim"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Atılım Üniversitesi Lisansüstü Eğitim-Öğretim Yönetmeliği",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261116-2.htm",
+    "ozet": "Atılım Üniversitesine bağlı enstitülerde yürütülen tezli ve tezsiz yüksek lisans ile doktora programlarına başvuru, kabul, süre, ders yükü ve danışman atanmasına ilişkin esaslar belirlenmiştir.",
+    "yururluk": "",
+    "onem": "dusuk",
+    "etiketler": [
+     "İdare",
+     "Eğitim"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Karadeniz Teknik Üniversitesi Lisansüstü Eğitim-Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261116-3.htm",
+    "ozet": "Karadeniz Teknik Üniversitesinde tez danışmanının, lisans veya lisansüstü programlarda en az iki yarıyıl ders vermiş olan öğretim elemanları arasından seçilmesi esası getirilmiştir.",
+    "yururluk": "yayımı tarihinde",
+    "onem": "dusuk",
+    "etiketler": [
+     "İdare",
+     "Eğitim"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Karadeniz Teknik Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim Yönetmeliği",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261116-4.htm",
+    "ozet": "Karadeniz Teknik Üniversitesinde Tıp, Diş Hekimliği ve Eczacılık fakülteleri haricindeki ön lisans ve lisans programlarının eğitim süresi, ders kredileri, sınavlar ve kayıt süreçlerine dair usul ve esaslar düzenlenmiştir.",
+    "yururluk": "",
+    "onem": "dusuk",
+    "etiketler": [
+     "İdare",
+     "Eğitim"
+    ]
+   }
+  ],
+  "model": "gemini-3.8-flash",
+  "olusturma": "2026-11-16T08:38+03:00"
+ },
+ {
   "tarih": "2026-11-15",
   "sayi": "",
   "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261115.htm",
