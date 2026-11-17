@@ -1,5 +1,50 @@
 [
  {
+  "tarih": "2026-11-17",
+  "sayi": "",
+  "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261117.htm",
+  "mukerrer": [],
+  "genel": "Resmî Gazete'nin bugünkü sayısında Adli Tıp Kurumu personelinin görevde yükselme ve unvan değişikliği şartlarına ilişkin yönetmelik değişikliği yayımlanmış, ayrıca İstanbul Üniversitesi bünyesindeki bir araştırma merkezinin yönetmeliği yürürlükten kaldırılmıştır. Listede yer alan Anayasa Mahkemesi kararının ise metin içeriğine yer verilmemiştir.",
+  "maddeler": [
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Adli Tıp Kurumu Personeli Görevde Yükselme ve Unvan Değişikliği Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261117-1.htm",
+    "ozet": "Adli Tıp Kurumu bünyesinde 657 sayılı Kanuna tabi personelin görevde yükselme ve unvan değişikliğine ilişkin hizmet grupları, genel şartlar ile şube müdürü, şef ve diğer kadrolara atanma özel şartları yeniden düzenlenmiştir.",
+    "yururluk": "",
+    "onem": "dusuk",
+    "etiketler": [
+     "İdare"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "İstanbul Üniversitesi Bitki ve Bitkisel Ürünler Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261117-2.htm",
+    "ozet": "İstanbul Üniversitesi Bitki ve Bitkisel Ürünler Uygulama ve Araştırma Merkezi Yönetmeliği yürürlükten kaldırılmıştır.",
+    "yururluk": "yayımı tarihinde",
+    "onem": "dusuk",
+    "etiketler": [
+     "İdare",
+     "Eğitim"
+    ]
+   },
+   {
+    "bolum": "ANAYASA MAHKEMESİ KARARI",
+    "baslik": "Anayasa Mahkemesinin 16/7/2026 Tarihli ve E: 2025/144, K: 2026/164 Sayılı Kararı",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261117-3.pdf",
+    "ozet": "Anayasa Mahkemesinin 16/7/2026 tarihli ve E: 2025/144, K: 2026/164 sayılı kararı başlığı yayımlanmış olup Resmî Gazete metninde karar içeriğine yer verilmemiştir.",
+    "yururluk": "",
+    "onem": "yuksek",
+    "etiketler": [
+     "Anayasa"
+    ]
+   }
+  ],
+  "model": "gemini-3.7-flash",
+  "olusturma": "2026-11-17T08:09+03:00"
+ },
+ {
   "tarih": "2026-11-16",
   "sayi": "",
   "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261116.htm",
