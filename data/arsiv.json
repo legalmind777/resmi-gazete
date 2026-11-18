@@ -1,5 +1,89 @@
 [
  {
+  "tarih": "2026-11-18",
+  "sayi": "",
+  "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118.htm",
+  "mukerrer": [],
+  "genel": "18 Kasım 2026 tarihli Resmî Gazete'de yabancı yatırımcılara verilecek ikamet izinlerine ilişkin Cumhurbaşkanı Kararı ile tekstil ürünleri ithalatında haksız rekabetin önlenmesine yönelik önlemleri uzatan Tebliğ öne çıkmaktadır. Ayrıca Harran Üniversitesi bünyesinde kurulan araştırma merkezinin yönetmeliği, alan sınırlarına ilişkin Cumhurbaşkanı Kararı ve BDDK kararı yayımlanmıştır.",
+  "maddeler": [
+   {
+    "bolum": "CUMHURBAŞKANI KARARLARI",
+    "baslik": "Bazı Anlaşmaların Yürürlüğe Girdiği Tarihlerin Tespit Edilmesi Hakkında Karar (Karar Sayısı: 11992)",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-1.pdf",
+    "ozet": "Bazı uluslararası anlaşmaların yürürlüğe girdiği tarihlerin tespit edilmesine ilişkin 11992 sayılı Cumhurbaşkanı Kararı yayımlanmıştır.",
+    "yururluk": "",
+    "onem": "orta",
+    "etiketler": [
+     "İdare",
+     "Uluslararası Hukuk"
+    ]
+   },
+   {
+    "bolum": "CUMHURBAŞKANI KARARLARI",
+    "baslik": "Osmaniye Zorkun Yaylası Yaban Hayatı Geliştirme Sahasının Sınırlarının Değiştirilmesi Hakkında Karar (Karar Sayısı: 11993)",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-2.pdf",
+    "ozet": "Osmaniye Zorkun Yaylası Yaban Hayatı Geliştirme Sahasının sınırlarının değiştirilmesine ilişkin 11993 sayılı Cumhurbaşkanı Kararı yayımlanmıştır.",
+    "yururluk": "",
+    "onem": "dusuk",
+    "etiketler": [
+     "İdare",
+     "Çevre"
+    ]
+   },
+   {
+    "bolum": "CUMHURBAŞKANI KARARLARI",
+    "baslik": "Yabancı Yatırımcılara Düzenlenecek İkamet İzinlerine Dair Karar (Karar Sayısı: 11994)",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-3.pdf",
+    "ozet": "Yabancı yatırımcılara düzenlenecek ikamet izinlerine ilişkin usul ve esasları kapsayan 11994 sayılı Cumhurbaşkanı Kararı yayımlanmıştır. Türkiye'ye yatırım yapacak yabancı uyruklu kişileri ve ilgili idari kurumları ilgilendirmektedir.",
+    "yururluk": "",
+    "onem": "yuksek",
+    "etiketler": [
+     "Yabancılar Hukuku",
+     "İdare",
+     "Ticaret"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİK",
+    "baslik": "Harran Üniversitesi Elektrikli Araç Eğitim Uygulama ve Araştırma Merkezi Yönetmeliği",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-4.htm",
+    "ozet": "Harran Üniversitesi Elektrikli Araç Eğitim Uygulama ve Araştırma Merkezinin amaçlarını, faaliyet alanlarını, yönetim organlarını ve çalışma şeklini düzenleyen yönetmelik yayımlanmıştır. Üniversite bünyesindeki akademisyenleri, öğrencileri ve ilgili sektör paydaşlarını etkilemektedir.",
+    "yururluk": "",
+    "onem": "dusuk",
+    "etiketler": [
+     "Eğitim",
+     "İdare"
+    ]
+   },
+   {
+    "bolum": "TEBLİĞ",
+    "baslik": "İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No: 2026/32)",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-5.htm",
+    "ozet": "Çin, Endonezya, Hindistan, Malezya, Pakistan, Tayland ve Vietnam menşeli sentetik veya suni devamsız liflerden iplik ithalatında uygulanan dampinge karşı önlemlerin 5 yıl süreyle devam etmesine karar verilmiştir. İlgili eşyayı ithal eden firmaları ve gümrük idarelerini etkilemektedir.",
+    "yururluk": "yayımı tarihinde",
+    "onem": "orta",
+    "etiketler": [
+     "Ticaret",
+     "İdare"
+    ]
+   },
+   {
+    "bolum": "KURUL KARARI",
+    "baslik": "Bankacılık Düzenleme ve Denetleme Kurulunun 17/11/2026 Tarihli ve 11601 Sayılı Kararı",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-6.pdf",
+    "ozet": "Bankacılık Düzenleme ve Denetleme Kurulunun 17/11/2026 tarihli ve 11601 sayılı kararı yayımlanmıştır.",
+    "yururluk": "",
+    "onem": "orta",
+    "etiketler": [
+     "Bankacılık",
+     "İdare"
+    ]
+   }
+  ],
+  "model": "gemini-3.6-flash",
+  "olusturma": "2026-11-18T08:12+03:00"
+ },
+ {
   "tarih": "2026-11-17",
   "sayi": "",
   "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261117.htm",
