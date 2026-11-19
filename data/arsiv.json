@@ -1,5 +1,52 @@
 [
  {
+  "tarih": "2026-11-19",
+  "sayi": "",
+  "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261119.htm",
+  "mukerrer": [],
+  "genel": "19 Kasım 2026 tarihli Resmî Gazete'de, pilot lisansı alımında aranan adli sicil, güvenlik ve mezuniyet şartlarını yeniden belirleyen ve lisans iptali hallerini düzenleyen Pilot Lisans Yönetmeliği değişikliği öne çıkmaktadır. Bunun yanında, üniversitelere yönelik uygulama araştırma merkezi kuruluşu ile lisans eğitim-öğretim ve sınav süreçlerine dair yönetmelik düzenlemeleri yayımlanmıştır.",
+  "maddeler": [
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Pilot Lisans Yönetmeliği (SHY-1)’nde Değişiklik Yapılmasına Dair Yönetmelik",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261119-1.htm",
+    "ozet": "Pilot lisansı başvurularında aranan adli sicil ve mahkûmiyet şartları detaylandırılarak kasten işlenen suçlar, terör, kaçakçılık ve belirli katalog suçlardan hüküm giymemiş olma ve terör irtibatı sebebiyle kamu görevinden çıkarılmamış olma kriterleri getirilmiştir. Ayrıca ticari hava taşımacılığı, aletli uçuş veya uçuş öğretmenliği yetkisi alacaklar için en az lise mezuniyeti şartı getirilmiş ve bu koşulları sonradan kaybedenlerin lisanslarının iptal edileceği düzenlenmiştir.",
+    "yururluk": "yayımı tarihinde",
+    "onem": "orta",
+    "etiketler": [
+     "İdare",
+     "Ceza"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Alanya Alaaddin Keykubat Üniversitesi Yapay Zeka ve Simülasyon Uygulama ve Araştırma Merkezi Yönetmeliği",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261119-2.htm",
+    "ozet": "Alanya Alaaddin Keykubat Üniversitesi bünyesinde Yapay Zeka ve Simülasyon Uygulama ve Araştırma Merkezi kurularak Merkezin amaçları, faaliyet alanları ve yönetim organlarının görevleri belirlenmiştir. Düzenleme, Merkezin yapay zeka alanında yürüteceği akademik çalışmalar, projeler ve idari yapılanmasına ilişkin usulleri kapsamaktadır.",
+    "yururluk": "",
+    "onem": "dusuk",
+    "etiketler": [
+     "İdare",
+     "Eğitim"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Bursa Uludağ Üniversitesi Önlisans ve Lisans Eğitim Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261119-3.htm",
+    "ozet": "Bursa Uludağ Üniversitesi öğrencilerinin azami öğrenim süresi sonundaki ek sınav ve intörn tamamlama hakları ile önceden veya öğrenim sırasında kazanılan yeterlik ve mikro yeterliklerin tanınması esasları düzenlenmiştir. Ders yoklamalarının QR kodlu Akıllı Yoklama Sistemi ile alınması hükme bağlanmış, devam şartı sağlanan bazı derslerin tekrarında devam muafiyeti tanınmış ve disiplin işlemlerinde 2547 sayılı Kanun hükümlerinin uygulanacağı belirtilmiştir.",
+    "yururluk": "yayımı tarihinde",
+    "onem": "dusuk",
+    "etiketler": [
+     "İdare",
+     "Eğitim"
+    ]
+   }
+  ],
+  "model": "gemini-3.8-flash",
+  "olusturma": "2026-11-19T08:17+03:00"
+ },
+ {
   "tarih": "2026-11-18",
   "sayi": "",
   "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118.htm",
