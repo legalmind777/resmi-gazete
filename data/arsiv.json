@@ -1,5 +1,62 @@
 [
  {
+  "tarih": "2026-11-20",
+  "sayi": "",
+  "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261120.htm",
+  "mukerrer": [],
+  "genel": "20 Kasım 2026 tarihli Resmî Gazete'de, belediye başkanlığı veya başkan vekilliğinin boşalması durumunda meclis tarafından yapılacak seçim usullerini ayrıntılandıran Belediye Meclisi Çalışma Yönetmeliği değişikliği yayımlanmıştır. Ayrıca Enerji Piyasası Düzenleme Kurulu ve Nükleer Düzenleme Kuruluna ait çeşitli kurul kararları yer almaktadır.",
+  "maddeler": [
+   {
+    "bolum": "YÖNETMELİK",
+    "baslik": "Belediye Meclisi Çalışma Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261120-1.htm",
+    "ozet": "Belediye başkanlığı veya başkan vekilliğinin herhangi bir nedenle boşalması halinde yapılacak seçimin adaylık usulleri, birleşik oy pusulası kullanımı, oylamanın gizliliği, geçersiz oy halleri ve seçim evrakının saklanmasına ilişkin kurallar düzenlenmiştir. Düzenleme, belediye meclis üyelerini ve yerel yönetimleri etkilemektedir.",
+    "yururluk": "yayımı tarihinde",
+    "onem": "orta",
+    "etiketler": [
+     "İdare"
+    ]
+   },
+   {
+    "bolum": "KURUL KARARLARI",
+    "baslik": "Enerji Piyasası Düzenleme Kurulunun 19/11/2026 Tarihli ve 15055 Sayılı Kararı",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261120-2.pdf",
+    "ozet": "Enerji Piyasası Düzenleme Kurulunun 15055 sayılı kararı yayımlanmış olup metin içeriği sunulmamıştır.",
+    "yururluk": "",
+    "onem": "orta",
+    "etiketler": [
+     "İdare",
+     "Ekonomi"
+    ]
+   },
+   {
+    "bolum": "KURUL KARARLARI",
+    "baslik": "Enerji Piyasası Düzenleme Kurulunun 19/11/2026 Tarihli ve 15056 Sayılı Kararı",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261120-3.pdf",
+    "ozet": "Enerji Piyasası Düzenleme Kurulunun 15056 sayılı kararı yayımlanmış olup metin içeriği sunulmamıştır.",
+    "yururluk": "",
+    "onem": "orta",
+    "etiketler": [
+     "İdare",
+     "Ekonomi"
+    ]
+   },
+   {
+    "bolum": "KURUL KARARLARI",
+    "baslik": "Nükleer Düzenleme Kurulunun 17/11/2026 Tarihli ve 2026-49/1-1, 1-2, 1-3, 1-4, 1-5 ve 1-6 Sayılı Kararları",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261120-4.pdf",
+    "ozet": "Nükleer Düzenleme Kurulunun 2026-49/1-1 ila 1-6 sayılı kararları yayımlanmış olup metin içeriği sunulmamıştır.",
+    "yururluk": "",
+    "onem": "orta",
+    "etiketler": [
+     "İdare"
+    ]
+   }
+  ],
+  "model": "gemini-3.8-flash",
+  "olusturma": "2026-11-20T08:12+03:00"
+ },
+ {
   "tarih": "2026-11-19",
   "sayi": "",
   "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261119.htm",
