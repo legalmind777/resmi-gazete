@@ -1,5 +1,40 @@
 [
  {
+  "tarih": "2026-11-22",
+  "sayi": "",
+  "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261122.htm",
+  "mukerrer": [],
+  "genel": "22 Kasım 2026 tarihli Resmî Gazete'de avukatlık pratiğini ya da genel yargı uygulamalarını doğrudan etkileyecek önemli bir mevzuat değişikliği yayımlanmamıştır. Günlük bülten yalnızca iki üniversitenin eğitim ve idari işleyişine ilişkin yönetmelik düzenlemelerinden oluşmaktadır.",
+  "maddeler": [
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Ağrı İbrahim Çeçen Üniversitesi Teknoloji Transfer Ofisi Uygulama ve Araştırma Merkezi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261122-1.htm",
+    "ozet": "Ağrı İbrahim Çeçen Üniversitesi Teknoloji Transfer Ofisi Uygulama ve Araştırma Merkezinde görevlendirilebilecek müdür yardımcısı sayısı en çok ikiden dörde çıkarılmıştır.",
+    "yururluk": "yayımı tarihinde",
+    "onem": "dusuk",
+    "etiketler": [
+     "Eğitim",
+     "İdare"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Hatay Mustafa Kemal Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261122-2.htm",
+    "ozet": "Hatay Mustafa Kemal Üniversitesine bağlı ön lisans ve lisans programlarındaki eğitim-öğretim süreçleri, sınav ve değerlendirme usulleri, azami öğrenim süreleri ve kayıt kabul şartları düzenlenmiştir.",
+    "yururluk": "",
+    "onem": "dusuk",
+    "etiketler": [
+     "Eğitim",
+     "İdare"
+    ]
+   }
+  ],
+  "model": "gemini-3.8-flash",
+  "olusturma": "2026-11-22T08:08+03:00"
+ },
+ {
   "tarih": "2026-11-21",
   "sayi": "",
   "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261121.htm",
