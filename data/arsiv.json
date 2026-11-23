@@ -1,5 +1,40 @@
 [
  {
+  "tarih": "2026-11-23",
+  "sayi": "",
+  "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261123.htm",
+  "mukerrer": [],
+  "genel": "23 Kasım 2026 tarihli Resmî Gazete'de yalnızca Biruni Üniversitesi'ne ilişkin iki adet yönetmelik değişikliği yayımlanmış olup, genel hukuki uygulamayı doğrudan etkileyecek önemli bir mevzuat değişikliği veya yargı kararı bulunmamaktadır.",
+  "maddeler": [
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Biruni Üniversitesi Ana Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261123-1.htm",
+    "ozet": "Biruni Üniversitesi Mütevelli Heyetinin Rektör atamasına ilişkin öneride bulunma yetkisi ile Rektörün ilgili mevzuat hükümleri uyarınca Cumhurbaşkanı tarafından atanacağı kuralı düzenlenmiştir.",
+    "yururluk": "yayımı tarihinde",
+    "onem": "dusuk",
+    "etiketler": [
+     "İdare",
+     "Eğitim"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Biruni Üniversitesi Lisansüstü Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261123-2.htm",
+    "ozet": "Biruni Üniversitesinde Lisansüstü Eğitim Enstitüsü yapılanmasına uyum sağlanmış; kayıt dondurma, tezli ve tezsiz yüksek lisans ile doktora programlarına başvuru, kabul ve tez savunma sınavı koşullarında değişiklikler yapılmıştır.",
+    "yururluk": "",
+    "onem": "dusuk",
+    "etiketler": [
+     "İdare",
+     "Eğitim"
+    ]
+   }
+  ],
+  "model": "gemini-3.8-flash",
+  "olusturma": "2026-11-23T08:29+03:00"
+ },
+ {
   "tarih": "2026-11-22",
   "sayi": "",
   "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261122.htm",
