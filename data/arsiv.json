@@ -1,5 +1,76 @@
 [
  {
+  "tarih": "2026-11-24",
+  "sayi": "",
+  "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261124.htm",
+  "mukerrer": [],
+  "genel": "24 Kasım 2026 tarihli Resmî Gazete'de en önemli gelişme, 2026 yılı yeniden değerleme oranının %27,83 olarak ilan edilmesi ve e-Arşiv Fatura ile e-Belge düzenlemelerine ilişkin usul ve esaslarda değişiklik yapılmasıdır. Bunun yanı sıra hayvancılık destekleme şartlarında teknik düzenlemeler ile bir üniversite sınav yönetmeliği değişikliği yayımlanmıştır.",
+  "maddeler": [
+   {
+    "bolum": "YÖNETMELİK",
+    "baslik": "Recep Tayyip Erdoğan Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261124-1.htm",
+    "ozet": "Recep Tayyip Erdoğan Üniversitesi bünyesinde bazı ortak zorunlu dersler ve uzaktan eğitim sınavlarına ilişkin istisnalar getirilmiş; ayrıca üst üste kayıt yenilemeyen veya harç ödemeyen uluslararası öğrencilerin üniversite ile ilişiğinin kesilmesine dair usul düzenlenmiştir.",
+    "yururluk": "yayımı tarihinde",
+    "onem": "dusuk",
+    "etiketler": [
+     "İdare",
+     "Eğitim"
+    ]
+   },
+   {
+    "bolum": "TEBLİĞLER",
+    "baslik": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 509)’nde Değişiklik Yapılmasına Dair Tebliğ (Sıra No: 598)",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261124-2.htm",
+    "ozet": "e-Arşiv Fatura ve diğer e-Belgelerin Güvenli Mobil Ödeme Sistemleri, Taksi Mali Cihazlar ve YN ÖKC'ler üzerinden düzenlenebilmesine imkan tanınmış; bilgi fişi tanımları kaldırılarak hekimlerin YN ÖKC kullanmaları halinde harici POS cihazı bulundurma zorunluluğu kaldırılmıştır.",
+    "yururluk": "",
+    "onem": "yuksek",
+    "etiketler": [
+     "Vergi",
+     "Ekonomi",
+     "Ticaret"
+    ]
+   },
+   {
+    "bolum": "TEBLİĞLER",
+    "baslik": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 599)",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261124-3.htm",
+    "ozet": "2026 yılı için yeniden değerleme oranı %27,83 (yirmi yedi virgül seksen üç) olarak tespit edilmiş olup bu oranın 2026 yılına ait son geçici vergi döneminde de uygulanacağı hükme bağlanmıştır.",
+    "yururluk": "",
+    "onem": "yuksek",
+    "etiketler": [
+     "Vergi",
+     "Ekonomi"
+    ]
+   },
+   {
+    "bolum": "TEBLİĞLER",
+    "baslik": "Hayvancılık Desteklemeleri Uygulama Tebliği (Tebliğ No: 2024/23)’nde Değişiklik Yapılmasına Dair Tebliğ (No: 2026/29)",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261124-4.htm",
+    "ozet": "Hayvancılık desteklemelerinde suni tohumlama süreleri, atık desteği başvuru ve ödeme şartları, kuzu ve oğlak temel/ilave destekleme kriterleri ile Kafkas arısı gen kaynağı koruma bölgelerine ilişkin usul ve esaslar yeniden düzenlenmiştir.",
+    "yururluk": "",
+    "onem": "orta",
+    "etiketler": [
+     "İdare",
+     "Ekonomi"
+    ]
+   },
+   {
+    "bolum": "DANIŞTAY KARARI",
+    "baslik": "Danıştay Dördüncü Dairesine Ait Karar",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261124-5.pdf",
+    "ozet": "Danıştay Dördüncü Dairesine ait karar başlığı altında yayımlanan bölümde somut bir uyuşmazlığa, karara veya gerekçe metnine yer verilmemiştir.",
+    "yururluk": "",
+    "onem": "dusuk",
+    "etiketler": [
+     "İdare"
+    ]
+   }
+  ],
+  "model": "gemini-3.8-flash",
+  "olusturma": "2026-11-24T08:19+03:00"
+ },
+ {
   "tarih": "2026-11-23",
   "sayi": "",
   "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261123.htm",
