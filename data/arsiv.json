@@ -1,5 +1,51 @@
 [
  {
+  "tarih": "2026-11-25",
+  "sayi": "",
+  "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261125.htm",
+  "mukerrer": [],
+  "genel": "Resmî Gazete'nin 25.11.2026 tarihli sayısında Cumhurbaşkanlığı atama kararları ile Atılım ve Harran üniversitelerine ait iki uygulama ve araştırma merkezi yönetmeliği yayımlanmıştır. Günün bülteninde avukatlar için yüksek önem taşıyan genel nitelikli veya geniş etkili bir mevzuat ya da yargı kararı bulunmamaktadır.",
+  "maddeler": [
+   {
+    "bolum": "ATAMA KARARLARI",
+    "baslik": "Cumhurbaşkanlığı Tarafından Yapılan Atamalar Hakkında Kararlar (Karar: 2026/398, 399)",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261125-3.pdf",
+    "ozet": "Cumhurbaşkanlığı tarafından 2026/398 ve 2026/399 sayılı atama kararları yayımlanmıştır.",
+    "yururluk": "",
+    "onem": "dusuk",
+    "etiketler": [
+     "İdare"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Atılım Üniversitesi Sürekli Eğitim Uygulama ve Araştırma Merkezi Yönetmeliği",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261125-1.htm",
+    "ozet": "Atılım Üniversitesi Sürekli Eğitim Uygulama ve Araştırma Merkezinin amaçları, faaliyet alanları, yönetim organları ve çalışma esasları düzenlenmiş; 14/6/2006 tarihli eski yönetmelik yürürlükten kaldırılmıştır.",
+    "yururluk": "yayımı tarihinde",
+    "onem": "dusuk",
+    "etiketler": [
+     "Eğitim",
+     "İdare"
+    ]
+   },
+   {
+    "bolum": "YÖNETMELİKLER",
+    "baslik": "Harran Üniversitesi Ortadoğu Araştırmaları Uygulama ve Araştırma Merkezi Yönetmeliği",
+    "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261125-2.htm",
+    "ozet": "Harran Üniversitesi Ortadoğu Araştırmaları Uygulama ve Araştırma Merkezinin kuruluş amaçları, faaliyet alanları, yönetim organları ve görevlerine ilişkin usul ve esaslar düzenlenmiştir.",
+    "yururluk": "",
+    "onem": "dusuk",
+    "etiketler": [
+     "Eğitim",
+     "İdare"
+    ]
+   }
+  ],
+  "model": "gemini-3.6-flash",
+  "olusturma": "2026-11-25T08:20+03:00"
+ },
+ {
   "tarih": "2026-11-24",
   "sayi": "",
   "link": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261124.htm",
